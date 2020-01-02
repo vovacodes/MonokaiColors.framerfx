@@ -1,0 +1,73 @@
+{
+  "root" : {
+    "__class" : "RootNode",
+    "children" : [
+
+    ],
+    "guidesX" : [
+
+    ],
+    "guidesY" : [
+
+    ],
+    "id" : "oCtyhJ931",
+    "name" : null,
+    "originalid" : null,
+    "parentid" : null,
+    "tokens" : {
+      "0d78077a-6d19-46d0-861b-619e34be6e66" : {
+        "__class" : "ColorTokenNode",
+        "id" : "0d78077a-6d19-46d0-861b-619e34be6e66",
+        "name" : "purple",
+        "value" : "rgb(171, 157, 242)"
+      },
+      "3cce8099-fbdb-47b0-9109-335dbb571378" : {
+        "__class" : "ColorTokenNode",
+        "id" : "3cce8099-fbdb-47b0-9109-335dbb571378",
+        "name" : "orange",
+        "value" : "rgb(252, 152, 103)"
+      },
+      "08afa0b7-0b05-4191-ba34-b6c90a128bdd" : {
+        "__class" : "ColorTokenNode",
+        "id" : "08afa0b7-0b05-4191-ba34-b6c90a128bdd",
+        "name" : "yellow",
+        "value" : "rgb(255, 216, 102)"
+      },
+      "446dc94f-5b9c-4d4b-b78f-0051807cca36" : {
+        "__class" : "ColorTokenNode",
+        "id" : "446dc94f-5b9c-4d4b-b78f-0051807cca36",
+        "name" : "blue",
+        "value" : "rgb(120, 220, 232)"
+      },
+      "2496fada-7043-4040-b90b-9c510cc0cca1" : {
+        "__class" : "ColorTokenNode",
+        "id" : "2496fada-7043-4040-b90b-9c510cc0cca1",
+        "name" : "green",
+        "value" : "rgb(169, 220, 118)"
+      },
+      "a8397b60-ee40-472a-81d9-988aa827826c" : {
+        "__class" : "ColorTokenNode",
+        "id" : "a8397b60-ee40-472a-81d9-988aa827826c",
+        "name" : "background",
+        "value" : "rgb(44, 41, 45)"
+      },
+      "c161fce1-8009-4fe1-83a3-1eeff8c228f6" : {
+        "__class" : "ColorTokenNode",
+        "id" : "c161fce1-8009-4fe1-83a3-1eeff8c228f6",
+        "name" : "red",
+        "value" : "rgb(255, 97, 136)"
+      }
+    },
+    "tokensIndex" : [
+      "a8397b60-ee40-472a-81d9-988aa827826c",
+      "c161fce1-8009-4fe1-83a3-1eeff8c228f6",
+      "3cce8099-fbdb-47b0-9109-335dbb571378",
+      "08afa0b7-0b05-4191-ba34-b6c90a128bdd",
+      "2496fada-7043-4040-b90b-9c510cc0cca1",
+      "446dc94f-5b9c-4d4b-b78f-0051807cca36",
+      "0d78077a-6d19-46d0-861b-619e34be6e66"
+    ],
+    "visible" : false
+  },
+  "version" : 55
+}
